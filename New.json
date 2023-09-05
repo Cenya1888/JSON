@@ -1,0 +1,15 @@
+{
+        "questionnaire": [
+                {               
+                "Full name":{                       
+                        "last name":"Dovzshenko",
+                        "First name":"Senya"
+                },
+                "Other":{
+                        "Age":52,
+                        "Number of pets":2,
+                        "Salary":"$3000"
+                }
+        }
+        ]
+}

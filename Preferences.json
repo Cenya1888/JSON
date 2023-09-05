@@ -1,0 +1,29 @@
+{
+    "Язык":
+    {
+        "RU":
+        {
+            "Анкета": 
+            {
+                "Фильм":"Аватар",
+                "Сериал":"Полицейский с Рублёвки",
+                "Еда":"Арбуз, виноград",
+                "Время года":"Лето",
+                "Страна":"Индия, Камбоджи"
+            }
+        }
+    },
+    "Language":
+    {
+        "EN":
+        {
+            "preferences":
+            {
+                "Films Darling":"Avatar",
+                "Series Darling":"Policeman from Rublyovka",
+                "Season Darlin":"Summer",
+                "country to visit":"India, Cambodia"
+            }
+        }
+    }
+}
