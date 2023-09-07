@@ -2,6 +2,8 @@
 
 # **GIT Homework 1**
 
+### --> **[JSON](#JS)** <--
+
 ### --> **[New.json](#new.j)** <--
 
 ### --> **[Preferences.jeson](#preferences.j)** <--
@@ -10,7 +12,12 @@
 
 ### --> **[Bug_report.json](#bug_report.j)** <--
 
+<a id="JS"></a>
+
+[в начало](#go)
+
 ## **JSON**
+
 
 1.  Создать внешний репозиторий c названием JSON:
 
